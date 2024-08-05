@@ -3,7 +3,7 @@
 /*
   Plugin Name: Genesis Nav Menu Amplified
   Plugin URI: http://DesignsByNicktheGeek.com
-  Version: 1.0.1
+  Version: 1.0.1-patched
   Author: Nick_theGeek
   Author URI: http://DesignsByNicktheGeek.com
   Description: Restores the traditional Genesis Menu with options for the Secondary Menu to have navigation extras
