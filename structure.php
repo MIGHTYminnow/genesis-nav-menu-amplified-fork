@@ -57,7 +57,7 @@ function gnma_do_nav() {
                         'type' => genesis_get_option( 'nav_type' ),
                         'sort_column' => genesis_get_option( 'nav_pages_sort' ),
                         'orderby' => genesis_get_option( 'nav_categories_sort' ),
-                        'depth' => genesis_get_option( 'nav_depth' ),
+                        'depth' => 999,
                         'exclude' => genesis_get_option( 'nav_exclude' ),
                         'include' => genesis_get_option( 'nav_include' ),
                         'echo' => false
